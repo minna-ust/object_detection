@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WDJ_images</folder>
+	<filename>26.jpg</filename>
+	<path>C:\Users\Administrator\Downloads\WDJ_images\26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WDJ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>102</ymin>
+			<xmax>324</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
