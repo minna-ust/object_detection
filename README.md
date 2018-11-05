@@ -1,4 +1,3 @@
-
 # Tensorflow Object Detection API
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
@@ -152,4 +151,5 @@ release includes:
 <b>Thanks to contributors</b>: Jonathan Huang, Vivek Rathod, Derek Chow,
 Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Jasper Uijlings,
 Viacheslav Kovalevskyi, Kevin Murphy
+
 
